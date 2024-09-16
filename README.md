@@ -1,6 +1,7 @@
 ## Working integration with Home Assistant
 * https://github.com/marvinroger/hass-addon-tiko
-
+* https://github.com/Maxou44/ha-tiko-component/tree/master
+  
 ## UPDATE
 As I moved to another place and I didn't get the Tiko service I cannot go further in the RE
 
